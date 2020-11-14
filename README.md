@@ -1,4 +1,4 @@
-<h2>Opa! Me chamo João Artur, </h2><p>Trabalho com desenvolvimento Full-stack, mais especificamente no desenvolvimento de sistemas sob demanda e sites institucionais. Também trabalho com lançamento de info produtos e gestão de tráfego.</p>
+<h2>Opa! Me chamo João Artur</h2><p>Trabalho com desenvolvimento Full-stack, mais especificamente no desenvolvimento de sistemas sob demanda e sites institucionais. Também trabalho com lançamento de info produtos e gestão de tráfego.</p>
 
 [Instagram Pessoal](https://instagram.com/joaoarturdev)
 
