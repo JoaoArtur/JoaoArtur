@@ -2,7 +2,7 @@
 
 [Instagram Pessoal](https://instagram.com/joaoarturdev)
 
-[Instagram JA Solutions](https://instagram.com/joaoarturdev)
+[Instagram JA Solutions](https://instagram.com/ja.solutions)
 
 [Meu site](https://jasolutions.tech)
 
