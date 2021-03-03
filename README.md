@@ -6,4 +6,6 @@
 
 [Meu site](https://jasolutions.tech)
 
-![Rychillie](https://github-readme-stats.vercel.app/api?username=joaoartur&show_icons=true&theme=onedark)
+![João Artur](https://github-readme-stats.vercel.app/api?username=joaoartur&show_icons=true&theme=onedark)
+
+![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/527?logoColor=white%26project=%26recentMS=0%26showProject=false)
